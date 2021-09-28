@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/giphy-reactApp/static/css/main.48310296.chunk.css",
+    "main.js": "/giphy-reactApp/static/js/main.028b1b46.chunk.js",
+    "main.js.map": "/giphy-reactApp/static/js/main.028b1b46.chunk.js.map",
+    "runtime-main.js": "/giphy-reactApp/static/js/runtime-main.2ac50617.js",
+    "runtime-main.js.map": "/giphy-reactApp/static/js/runtime-main.2ac50617.js.map",
+    "static/js/2.ca0b63a5.chunk.js": "/giphy-reactApp/static/js/2.ca0b63a5.chunk.js",
+    "static/js/2.ca0b63a5.chunk.js.map": "/giphy-reactApp/static/js/2.ca0b63a5.chunk.js.map",
+    "index.html": "/giphy-reactApp/index.html",
+    "static/css/main.48310296.chunk.css.map": "/giphy-reactApp/static/css/main.48310296.chunk.css.map",
+    "static/js/2.ca0b63a5.chunk.js.LICENSE.txt": "/giphy-reactApp/static/js/2.ca0b63a5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ac50617.js",
+    "static/js/2.ca0b63a5.chunk.js",
+    "static/css/main.48310296.chunk.css",
+    "static/js/main.028b1b46.chunk.js"
+  ]
+}
